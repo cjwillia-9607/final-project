@@ -1,0 +1,15 @@
+# Ignore build artifacts
+build
+bin
+.exe
+.out
+
+# Ignore user-specific files
+.vscode
+.idea
+.user
+.suo
+
+# Ignore libraries and dependencies
+lib
+vendor
