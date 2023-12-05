@@ -11,5 +11,5 @@ bin
 .suo
 
 # Ignore libraries and dependencies
-lib
+libraries
 vendor
